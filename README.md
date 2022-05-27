@@ -3,6 +3,8 @@
 ### 3D Face Reconstruction with 3DMM Face Model from RGB image
 This is a project reconstructing 3D face mesh from related RGB image, with the help of Basel Face Model(BFM) and soft renderer(differantiable renderer). We present a pipeline that reconstructs a human face 3D model from a single RGB image. The pipeline includes face detection, landmark detection, regression of 3DMM model parameters, and soft rendering. 
 
+<img src="/path/to/img.jpg" alt="Alt text" title="Workflow">
+
 #### Test
 1. Make sure you have python3 and related pip3 installed.
 2. Make sure you have Anaconda3 installed. 
